@@ -1,4 +1,8 @@
-### Hello, I'm Marie 🧩
+<h1 align="center">Hello, I'm Marie 🧩</h1>
+
+<ul>
+  <li> 👩‍🎓 I’m currently learning in <b><i>42 International Programming School in Yerevan</i></b>
+</ul>
 
 <div align="center">
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mnazarya?1337Badge=off&UM6P=off" alt="mnazarya's 42 stats" /></a>
