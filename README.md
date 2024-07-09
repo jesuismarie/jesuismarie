@@ -6,10 +6,8 @@
 
 
 <div align="center">
-  <ul style="list-style-type: none;">
-    <li> ✧ I’m currently learning in <b><i>42 International Programming School in Yerevan</i></b> 📚
-    <li> ✧  I’m graduated from <b><i>National University of Architecture and Construction of Armenia</i></b> 🎓
-  </ul>
+    <p> ✧ I’m currently learning in <b><i>42 International Programming School in Yerevan</i></b> 📚</p>
+    <p> ✧  I’m graduated from <b><i>National University of Architecture and Construction of Armenia</i></b> 🎓</p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
