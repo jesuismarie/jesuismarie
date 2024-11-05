@@ -38,13 +38,13 @@
         <img src="https://badge.mediaplus.ma/darkblue/mnazarya?1337Badge=off&UM6P=off" alt="mnazarya's 42 stats"/>
       </a>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=jesuismarie&theme=prussian&hide_border=true&card_width=450&card_height=275" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=jesuismarie&theme=prussian&hide_border=true&card_width=400&card_height=275" alt="GitHub Streak"/>
       </a>
     </div>
     <br>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C&size_weight=0.5&count_weight=0.5&theme=prussian&hide_border=true&card_width=900"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C&size_weight=0.5&count_weight=0.5&theme=prussian&hide_border=true&card_width=800"/>
       </a>
     </div>
   </div>
