@@ -4,8 +4,8 @@
     <a href="https://linkedin.com/in/marienazaryan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marienazaryan"/></a>
   </p>
   <div>
-    <p> ✧ I’m currently learning in <b><i>42 International Programming School in Yerevan</i></b> 📚</p>
-    <p> ✧ I’m graduated from <b><i>National University of Architecture and Construction of Armenia</i></b> 🎓</p>
+    <p> ✧ I'm currently learning in <b><i>42 International Programming School in Yerevan</i></b> 📚</p>
+    <p> ✧ I'm graduated from <b><i>National University of Architecture and Construction of Armenia</i></b> 🎓</p>
   </div>
   <h3>Languages and Tools:</h3>
   <p> 
