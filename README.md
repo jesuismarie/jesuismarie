@@ -1,12 +1,12 @@
 <div align="center">
-	<h1>Hello, I'm Marie 🧩</h1>
-	<p>
-		<a href="https://linkedin.com/in/marienazaryan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marienazaryan"/></a>
-	</p>
+	<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=timeGradient&text=Hello%20I'm%20Marie&animation=fadeIn&fontSize=50&reversal=true" alt="Github Header"></img>
 	<div>
 		<p> ✧ I'm currently learning in <b><i>42 International Programming School in Yerevan</i></b> 📚</p>
 		<p> ✧ I'm graduated from <b><i>National University of Architecture and Construction of Armenia</i></b> 🎓</p>
 	</div>
+	<p>
+		<a href="https://linkedin.com/in/marienazaryan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marienazaryan"/></a>
+	</p>
 	<h3>Languages and Tools:</h3>
 	<div style="display:flex; justify-content:space-between"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -23,7 +23,7 @@
 	<div>
 		<div style="display: flex; justify-content: space-between;">
 			<img src="https://badge.mediaplus.ma/darkblue/mnazarya?1337Badge=off&UM6P=off" alt="42 stats"/>
-			<img src="https://streak-stats.demolab.com?user=jesuismarie&theme=prussian&hide_border=true&card_width=370&card_height=275" alt="GitHub Streak"/>
+			<img src="https://streak-stats.demolab.com/?user=jesuismarie&theme=prussian&hide_border=true&card_width=370&card_height=275" alt="GitHub Streak"/>
 		</div>
 		<br>
 		<div style="display: flex; justify-content: center;">
