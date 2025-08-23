@@ -65,23 +65,25 @@
 			</td>
 			<td align="center" valign="top">
 				<h3>TryHackMe</h3>
-				<img
-					src="https://tryhackme-badges.s3.amazonaws.com/mari.nazaryan7173.png"
-					alt="THM Badge"
-					width="280px"
-				/>
+				<a href="https://tryhackme.com/p/mari.nazaryan7173">
+					<img
+						src="https://tryhackme-badges.s3.amazonaws.com/mari.nazaryan7173.png?update"
+						alt="THM Badge"
+						width="310px"
+					/>
+				</a>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" align="center">
 				<h3>GitHub Stats</h3>
 				<img
-					src="https://streak-stats.demolab.com/?user=jesuismarie&theme=prussian&hide_border=true&card_width=370&card_height=250"
+					src="https://streak-stats.demolab.com/?user=jesuismarie&theme=prussian&hide_border=true&card_width=370&card_height=235"
 					alt="GitHub Streak"
 					width="370px"
 				/>
 				<img
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&langs_count=8&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C&theme=prussian&hide_border=true"
+					src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&langs_count=8&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C,Modula-2&theme=prussian&hide_border=true"
 					alt="Top Languages"
 					width="370px"
 					height="250px"
