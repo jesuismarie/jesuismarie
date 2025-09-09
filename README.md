@@ -47,7 +47,7 @@
 	<h2>Tech Stack</h2>
 	<div>
 		<img
-			src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=0&fontSize=25&showBorder=false&lineCount=2&theme=tokyonight&width=820&hideBg=true&hideTitle=true&bg=%23131422&badge=%232B2B2B&border=%233B3B3B&titleColor=%23ffffff&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bgit,git,auto%3Bgnubash,bash,auto%3Blinux,linux,auto%3B&line2=docker,docker,auto%3Bpython,python,auto%3Btailwindcss,tailwindcss,auto%3Btypescript,typescript,auto%3B"
+			src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=0&fontSize=25&showBorder=false&lineCount=3&theme=tokyonight&width=820&hideBg=true&hideTitle=true&bg=%23131422&badge=%232B2B2B&border=%233B3B3B&titleColor=%23ffffff&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bgit,git,auto%3Bgnubash,bash,auto%3Blinux,linux,auto%3B&line2=burpsuite,Burp%20Suite,auto%3Bwireshark,Wireshark,auto%3Bvim,Vim,auto%3Bnmap,Nmap,auto%3B&line3=docker,docker,auto%3Bpython,python,auto%3Btailwindcss,tailwindcss,auto%3Btypescript,typescript,auto%3B"
 			alt="Tech Stack"
 		/>
 	</div>
