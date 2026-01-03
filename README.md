@@ -6,12 +6,12 @@
 	<h2>About Me</h2>
 	<div>
 		<p>
-			✧ I'm a passionate <b>tech enthusiast</b> focused on <b>cybersecurity</b> and <b>computer networking</b>.<br>
-			✧ I love solving programming challenges and continuously improving through project-based learning.<br>
-			✧ I'm especially curious about <b>ethical hacking</b>, <b>low-level systems</b>, and anything that deepens my understanding of how computers work.<br>
-			✧ Currently, I'm an <b>outer circle student</b> at <b><i>42 Yerevan</i></b> — an international programming school known for its peer-to-peer, project-driven learning model.<br>
+			<p>✧ I'm a passionate <strong>tech enthusiast</strong> focused on <strong>cybersecurity</strong> and <strong>building reliable, secure systems and infrastructure</strong>.<br>
+			✧ I enjoy solving programming challenges and continuously improving through project-based learning.<br>
+			✧ I'm especially curious about <strong>how systems work at a low level</strong>, how they can be analyzed, protected, and improved, and I’m also interested in <strong>ethical hacking</strong>.<br>
+			✧ Currently, I'm an <strong>outer circle student</strong> at <strong><i>42 School</i></strong> — an international programming school known for its peer-to-peer, project-driven learning model.<br>
 			✧ Always curious, always learning — I'm open to collaborations and new challenges!<br>
-			✧ Outside of tech, I enjoy <b>photography</b>, <b>drawing</b>, and <b>music</b>.
+			✧ Outside of tech, I enjoy <strong>photography</strong>, <strong>drawing</strong>, and <strong>music</strong>.</p>
 		</p>
 	</div>
 	<br>
