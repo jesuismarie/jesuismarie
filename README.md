@@ -6,12 +6,12 @@
 	<h2>About Me</h2>
 	<div>
 		<p>
-			✧ I'm a passionate <b>tech enthusiast</b> focused on <b>cybersecurity</b> and <b>computer networking</b>.<br>
-			✧ I love solving programming challenges and continuously improving through project-based learning.<br>
-			✧ I'm especially curious about <b>ethical hacking</b>, <b>low-level systems</b>, and anything that deepens my understanding of how computers work.<br>
-			✧ Currently, I'm an <b>outer circle student</b> at <b><i>42 Yerevan</i></b> — an international programming school known for its peer-to-peer, project-driven learning model.<br>
+			✧ I'm a passionate <strong>tech enthusiast</strong> focused on <strong>cybersecurity</strong> and <strong>building reliable, secure systems and infrastructure</strong>.<br>
+			✧ I enjoy solving programming challenges and continuously improving through project-based learning.<br>
+			✧ I'm especially curious about <strong>how systems work at a low level</strong>, how they can be analyzed, protected, and improved, and I’m also interested in <strong>ethical hacking</strong>.<br>
+			✧ Currently, I'm an <strong>outer circle student</strong> at <strong><i>42 School</i></strong> — an international programming school known for its peer-to-peer, project-driven learning model.<br>
 			✧ Always curious, always learning — I'm open to collaborations and new challenges!<br>
-			✧ Outside of tech, I enjoy <b>photography</b>, <b>drawing</b>, and <b>music</b>.
+			✧ Outside of tech, I enjoy <strong>photography</strong>, <strong>drawing</strong>, and <strong>music</strong>.
 		</p>
 	</div>
 	<br>
@@ -46,29 +46,28 @@
 	<h2>Tech Stack</h2>
 	<div>
 		<img
-			src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=0&fontSize=25&showBorder=false&lineCount=3&theme=tokyonight&width=820&hideBg=true&hideTitle=true&bg=%23131422&badge=%232B2B2B&border=%233B3B3B&titleColor=%23ffffff&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bgit,git,auto%3Bgnubash,bash,auto%3Blinux,linux,auto%3B&line2=burpsuite,Burp%20Suite,auto%3Bwireshark,Wireshark,auto%3Bvim,Vim,auto%3Bnmap,Nmap,auto%3B&line3=docker,docker,auto%3Bpython,python,auto%3Btailwindcss,tailwindcss,auto%3Btypescript,typescript,auto%3B"
-			alt="Tech Stack"
+			src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=0&fontSize=25&showBorder=false&lineCount=4&theme=tokyonight&width=820&hideBg=true&hideTitle=true&bg=%23131422&badge=%232B2B2B&border=%233B3B3B&titleColor=%23ffffff&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Blinux,Linux,auto%3Bgnubash,Bash,auto%3Bvim,Vim,auto%3Bmake,Make,auto%3B&line2=git,Git,auto%3Bdocker,Docker,auto%3Bdockercompose,Docker%20Compose,auto%3Baws,Amazone%20Web%20Services,auto%3B&line3=burpsuite,Burp%20Suite,auto%3Bwireshark,Wireshark,auto%3Bnmap,Nmap,auto%3Bmetasploit,Metasploit,auto%3B&line4=python,Python,auto%3Btailwindcss,TailwindCSS,auto%3Btypescript,TypeScript,auto%3B" alt="Tech Stack"
 		/>
 	</div>
 	<br>
 	<h2>States</h2>
 	<table align="center">
 		<tr>
-			<td align="center" valign="top">
+			<td align="center">
 				<h3>42 School</h3>
 				<img
 					src="https://badge.mediaplus.ma/darkblue/mnazarya?1337Badge=off&UM6P=off"
 					alt="42 stats"
 					height="250px"
 				/>
-			</td>`
+			</td>
 			<td align="center" valign="top">
 				<h3>TryHackMe</h3>
 				<a href="https://tryhackme.com/p/jesuismarie">
 					<img
 						src="https://tryhackme-badges.s3.amazonaws.com/jesuismarie.png"
-						alt="THM Badge"
-						width="310px"
+						alt="TryHackMe Badge"
+						width="350px"
 					/>
 				</a>
 			</td>
@@ -82,7 +81,7 @@
 					width="370px"
 				/>
 				<img
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&langs_count=8&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C,Modula-2&theme=prussian&hide_border=true"
+					src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuismarie&langs_count=8&layout=compact&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C,Modula-2,PHP&theme=prussian&hide_border=true"
 					alt="Top Languages"
 					width="370px"
 					height="250px"
