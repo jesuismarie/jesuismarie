@@ -38,7 +38,8 @@
 	<br/>
 	<h2>Tech Stack</h2>
 	<img
-		src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=0&fontSize=25&showBorder=false&lineCount=3&theme=tokyonight&width=820&hideBg=true&hideTitle=true&bg=%23131422&badge=%232B2B2B&border=%233B3B3B&titleColor=%23ffffff&line1=c,C,auto%3Bpython,Python,auto%3Bcplusplus,C%2B%2B,auto%3Blinux,Linux,auto%3Bgnubash,Bash,auto%3Bvim,Vim,auto%3Bgnu,Make,auto%3B&line2=git,Git,auto%3Bdocker,Docker,auto%3Bdockercompose,Docker%20Compose,auto%3Baws,Amazone%20Web%20Services,auto%3B&line3=burpsuite,Burp%20Suite,auto%3Bwireshark,Wireshark,auto%3Bnmap,Nmap,auto%3Bmetasploit,Metasploit,auto%3Byara,Yara,auto%3B" alt="Tech Stack"
+		src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontSize=25&showBorder=false&lineCount=4&theme=transparent&badge=%230A0A0A&border=%233B1F5E&titleColor=%237C3AED&textColor=%23C4B5FD&width=820&hideBg=true&hideTitle=true&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bpython,Python,auto%3Bgnu,make,auto%3B&line2=docker,Docker,auto%3Bdockercompose,Docker%20Compose,auto%3Bkubernetes,Kubernetes,auto%3Bansible,Ansible,auto%3B&line3=linux,Linux,auto%3Bgnubash,Bash,auto%3Baws,AWS,auto%3Bgit,Git,auto%3Bgithubactions,GitHub%20Actions,auto%3B&line4=wireshark,Wireshark,auto%3Bnmap,Nmap,auto%3Bburpsuite,Burp%20Suite,auto%3Bmetasploit,Metasploit,auto%3B"
+		alt="Tools and Technologies"
 	/>
 	<br/>
 	<h2>Stats</h2>
@@ -95,7 +96,7 @@
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuismarie/jesuismarie/output/github-contribution-grid-snake-dark.svg" />
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesuismarie/jesuismarie/output/github-contribution-grid-snake.svg" />
-			<img alt="Contribution Snake" src="https://raw.githubusercontent.com/jesuismarie/jesuismarie/output/github-contribution-grid-snake-dark.svg" width="95%" />
+			<img alt="Contribution Snake" src="https://raw.githubusercontent.com/jesuismarie/jesuismarie/output/github-contribution-grid-snake-dark.svg" width="100%" />
 		</picture>
 	</div>
 	<br/>
