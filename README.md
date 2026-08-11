@@ -38,7 +38,12 @@
 	<br/>
 	<h2>Tech Stack</h2>
 	<img
-		src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontSize=25&showBorder=false&lineCount=4&theme=transparent&badge=%230A0A0A&border=%233B1F5E&titleColor=%237C3AED&textColor=%23C4B5FD&width=820&hideBg=true&hideTitle=true&line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bpython,Python,auto%3Bgnu,make,auto%3B&line2=docker,Docker,auto%3Bdockercompose,Docker%20Compose,auto%3Bkubernetes,Kubernetes,auto%3Bansible,Ansible,auto%3B&line3=linux,Linux,auto%3Bgnubash,Bash,auto%3Baws,AWS,auto%3Bgit,Git,auto%3Bgithubactions,GitHub%20Actions,auto%3B&line4=wireshark,Wireshark,auto%3Bnmap,Nmap,auto%3Bburpsuite,Burp%20Suite,auto%3Bmetasploit,Metasploit,auto%3B"
+		src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontSize=25&showBorder=false&lineCount=5&theme=transparent&badge=%230A0A0A&border=%233B1F5E&titleColor=%237C3AED&textColor=%23C4B5FD&width=820&hideBg=true&hideTitle=true&
+		line1=c,C,auto%3Bcplusplus,C%2B%2B,auto%3Bpython,Python,auto%3Bgnu,Make,auto%3B&
+		line2=linux,Linux,auto%3Bgnubash,Bash,auto%3Bgit,Git,auto%3Bgithubactions,GitHub%20Actions,auto%3B&
+		line3=docker,Docker,auto%3Bdockercompose,Docker%20Compose,auto%3Bdockerswarm,Docker%20Swarm,auto%3B&
+		line4=kubernetes,Kubernetes,auto%3Bhelm,Helm,auto%3Bansible,Ansible,auto%3Bvagrant,Vagrant,auto%3Baws,AWS,auto%3B&
+		line5=wireshark,Wireshark,auto%3Bnmap,Nmap,auto%3Bburpsuite,Burp%20Suite,auto%3Bmetasploit,Metasploit,auto%3B"
 		alt="Tools and Technologies"
 	/>
 	<br/>
