@@ -69,7 +69,7 @@
 			<td colspan="2" align="center">
 				<h3>GitHub Analytics</h3>
 				<img
-					src="https://github-stats-extended.vercel.app/api/top-langs?username=jesuismarie&layout=compact&theme=transparent&title_color=7C3AED&text_color=C4B5FD&border_color=3B1F5E&bg_color=0D0D0D&langs_count=8&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C,Modula-2,PHP"
+					src="https://github-stats-extended.vercel.app/api/top-langs?username=jesuismarie&layout=compact&theme=transparent&title_color=7C3AED&text_color=C4B5FD&border_color=3B1F5E&bg_color=0D0D0D&langs_count=10&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C,Modula-2,PHP,CSS,XSLT"
 					height="185"
 					alt="Top Languages"
 				/>
